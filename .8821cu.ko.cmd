@@ -1,0 +1,1 @@
+cmd_/home/igor/drivers/wifi/rtl8811CU/v5.8.1-patched/8821cu.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/igor/drivers/wifi/rtl8811CU/v5.8.1-patched/8821cu.ko /home/igor/drivers/wifi/rtl8811CU/v5.8.1-patched/8821cu.o /home/igor/drivers/wifi/rtl8811CU/v5.8.1-patched/8821cu.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/igor/drivers/wifi/rtl8811CU/v5.8.1-patched/modules.order := {   echo /home/igor/drivers/wifi/rtl8811CU/v5.8.1-patched/8821cu.ko; :; } | awk '!x[$$0]++' - > /home/igor/drivers/wifi/rtl8811CU/v5.8.1-patched/modules.order

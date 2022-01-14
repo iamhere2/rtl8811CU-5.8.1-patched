@@ -1,0 +1,1 @@
+cmd_/home/igor/drivers/wifi/rtl8811CU/v5.8.1-patched/Module.symvers := sed 's/\.ko$$/\.o/' /home/igor/drivers/wifi/rtl8811CU/v5.8.1-patched/modules.order | scripts/mod/modpost -m -a  -o /home/igor/drivers/wifi/rtl8811CU/v5.8.1-patched/Module.symvers -e -i Module.symvers   -T -
